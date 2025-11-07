@@ -2,10 +2,6 @@
 
 This project implements a **spoken digit classification system** using MATLAB and Python. It includes audio dataset preparation, feature extraction, model training, and prediction of single digits or sequences.
 
-## Contributors
-- Mobina Khosravani — 402101628  
-- Nima Pashabadi — 401101365  
-- Fatameh NikouMehr — 401101484  
 
 ## Project Overview
 The goal of this project is to classify spoken digits (0–9) from audio recordings. The workflow involves **dataset generation**, **feature extraction**, **training a classifier**, and **testing/predicting** new audio samples.
